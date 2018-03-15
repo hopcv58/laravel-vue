@@ -1,0 +1,15 @@
+.form-group__message {
+	color: red;
+}
+
+.title-head {
+	display: inline-block;
+}
+
+.result_search {
+	position: absolute;
+}
+
+.list-group-item {
+	padding: 5px;
+}

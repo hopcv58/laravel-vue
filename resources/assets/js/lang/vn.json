@@ -1,0 +1,49 @@
+{
+  "menu": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ",
+    "search": "Tìm kiếm",
+    "user": "Tài khoản",
+    "product": "Sản phẩm"
+  },
+  "common": {
+    "select_lang": "Ngôn ngữ",
+    "username": "Tài khoản",
+    "phone": "Số điện thoại",
+    "email": "Địa chỉ email",
+    "ip_address": "Địa chỉ IP",
+    "created_at": "Thời gian tạo"
+  },
+  "product": {
+    "name" : "Tên",
+    "color" : "Màu sắc",
+    "price" : "Giá bán",
+    "old" : "Hàng cũ",
+    "yes": "Có",
+    "no": "Không",
+    "created_at": "Thời gian"
+  },
+  "button": {
+    "add": "Thêm mới",
+    "update": "Cập nhật",
+    "close": "Đóng",
+    "delete": "Xóa",
+    "edit": "Sửa",
+    "list": "Danh sách"
+  },
+  "login": {
+    "title": "Đăng nhập vào dibochit",
+    "buttons": {
+      "login": "Đăng nhập"
+    },
+    "input_text": {
+      "email": "Địa chỉ gmail",
+      "password": "Mật khẩu"
+    },
+    "messages": {
+      "none_account": "Tạo tài khoản mới",
+      "register": "Đăng ký"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "menu": {
+    "home": "Homepage",
+    "about": "About",
+    "contact": "Contact",
+    "search": "Tìm kiếm",
+    "user": "Users",
+    "product": "Product"
+  },
+  "common": {
+    "select_lang": "Language",
+    "email": "Email address",
+    "username": "Username",
+    "phone": "Phone",
+    "ip_address": "IP address",
+    "created_at": "Created at"
+  },
+  "product": {
+    "name" : "Name",
+    "color" : "Color",
+    "price" : "Price",
+    "old" : "Old",
+    "yes": "Yes",
+    "no": "No",
+    "created_at": "Created at"
+  },
+  "button": {
+    "add": "Add",
+    "update": "Update",
+    "close": "Close",
+    "delete": "Delete",
+    "edit": "Edit",
+    "list": "List"
+  },
+  "login": {
+    "title": "Đăng nhập vào dibochit",
+    "buttons": {
+      "login": "Login"
+    },
+    "input_text": {
+      "email": "Email address",
+      "password": "Password"
+    },
+    "messages": {
+      "none_account": "Tạo tài khoản mới",
+      "register": "Đăng ký"
+    }
+  }
+}
